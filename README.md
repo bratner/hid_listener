@@ -2,6 +2,7 @@ hid_listener
 ============
 
 A fork of the original hid_listener to parse Multiplo's DuinoBot v.1.2 HID VirtualSerial packets.
+original : http://www.pjrc.com/teensy/hid_listen.html
 
 The tool is originally multi-platform Win/Lin/Mac. 
 The changes I made were tested only on Linux so I would like to know if it even compiles on other targets.
